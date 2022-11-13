@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Subhasish-Saha
 - 👀 I’m interested in Data Analytics, Machine Learning, Deep Learning, Reinforcement Learning,etc.
-- 💼 I’m currently learning and working as a Jr Data Scientist @Cloudcraftz solutions pvt ltd
+- 💼 I’m currently working as a Jr Data Scientist @Cloudcraftz solutions pvt ltd
 - 🌿 I love gardening, watching football and play with my pet dog ALEX.
 - 📫 You can reach me on - https://www.linkedin.com/in/subhasish-saha-7994bb209/
 
